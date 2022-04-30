@@ -38,7 +38,6 @@ public class ScrewConfig {
         //生成配置
         EngineConfig engineConfig = EngineConfig.builder()
                 //生成文件路径
-//                .fileOutputDir(fileOutputDir)
                 .fileOutputDir("/Users/liuhuan/Desktop/")
                 //打开目录
                 .openOutputDir(true)
